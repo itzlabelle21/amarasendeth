@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "install",
+			"path": "eth-send/eth-send/",
+			"problemMatcher": [],
+			"label": "npm: install - eth-send/eth-send",
+			"detail": "install dependencies from package",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		}
+	]
+}
